@@ -18,6 +18,16 @@
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-728FCF?style=for-the-badge&logo=freecad&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+## 🛠️ Core Mechanical & CAD Skills
+
+| Category | Skills |
+|---|---|
+| **CAD Software** | SolidWorks, CATIA, Siemens NX, Fusion 360, FreeCAD |
+| **Simulation/FEM** | ANSYS, FEM-Simulation |
+| **Analysis Domains** | Fatigue & Structural Design, Hydrodynamic Bearing Design, Kinematics & Dynamics |
+| **Manufacturing** | Additive Manufacturing (3D Printing), Laser Cutting, Design for Industry 4.0 |
+| **Analytical Tools** | MATLAB, Python (scipy, OpenCV) |
+
 **Engineering Domains:** FEM & Structural Analysis · Fatigue & Fracture Design · Hydrodynamic Bearing Design · Robotics & Kinematics · Manufacturing Technology · Materials Science
 ---
 [![](https://komarev.com/ghpvc/?username=charanprasadrg-oss&icon=0&color=0)](https://visitcount.itsvg.in)
