@@ -31,9 +31,9 @@
 
 **Engineering Focus Areas:**Cyber-Physical Systems · Digital Production . Advanced System Automation.
 
-#### **🤝 Soft Skills**
+<h4>🤝 Soft Skills</h4>
 
-🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork
+<sub>🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork</sub>
 ---
 [![](https://komarev.com/ghpvc/?username=charanprasadrg-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
