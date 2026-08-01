@@ -40,7 +40,14 @@
 
 <h2>🤝 Soft Skills</h2>
 
-<sub>🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork</sub>
+<sub>🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork</sub>  
+
+### 🌍 Languages
+
+| Language | Proficiency |
+|---|---|
+| **English** | C1  |
+| **German** | B2  |
 ---
 [![](https://komarev.com/ghpvc/?username=charanprasadrg-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
