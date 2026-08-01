@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 M.Sc. Intelligent Manufacturing student @ TU Clausthal<br>🔧 Background in Mechanical Engineering, CAD, CAM & Autonomous Systems<br>🔭 Currently working on: Fatigue design methods for lightweight copper alloy components >🎯 Detail-oriented • 📚 Fast learner • 🧭 Ethical & responsible • 💪 Resilient • 🌍 Strong cross-cultural teamwork<br>📫 Reach me: charanprasadrg@gmail.com<br>🔗 LinkedIn: linkedin.com/in/charanprasadrg<br>
+🎓 M.Sc. Intelligent Manufacturing student @ TU Clausthal<br>🔧 Background in Mechanical Engineering, CAD, CAM & Autonomous Systems<br>🔭 Currently working on: Fatigue design methods for lightweight copper alloy components<br> 🎯 Detail-oriented • 📚 Fast learner • 🧭 Ethical & responsible • 💪 Resilient • 🌍 Strong cross-cultural teamwork<br>📫 Reach me: charanprasadrg@gmail.com<br>🔗 LinkedIn: linkedin.com/in/charanprasadrg<br>
 
 
 ## 🌐 Socials:
