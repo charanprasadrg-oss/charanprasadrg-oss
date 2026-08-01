@@ -1,14 +1,14 @@
 # 💫 About Me
 
-🎓 M.Sc. student in **Intelligent Manufacturing** @ TU Clausthal
-🔧 Mechanical Engineering background with hands-on experience in **CAD, CAM, Robotics & Autonomous Systems**
-🤖 Practical experience building **Edge-AI & safety systems** for industrial robot cells (Python, OpenCV, NVIDIA Jetson)
-🏭 Passionate about **Industry 4.0, digital production & cyber-physical systems**
-🔭 Currently working on: **Fatigue design methods for lightweight copper alloy components**
-🌍 Ex-Intern @ **Indian Institute of Science (IISc) — RBCCPS**
-💬 Open to opportunities in **Werkstudent/Praktikum/Master Thesis**
+🎓 M.Sc. student in **Intelligent Manufacturing** @ TU Clausthal<br>
+🔧 Mechanical Engineering background with hands-on experience in **CAD, CAM, Robotics & Autonomous Systems**<br>
+🤖 Practical experience building **Edge-AI & safety systems** for industrial robot cells (Python, OpenCV, NVIDIA Jetson)<br>
+🏭 Passionate about **Industry 4.0, digital production & cyber-physical systems**<br>
+🔭 Currently working on: **Fatigue design methods for lightweight copper alloy components**<br>
+🌍 Ex-Intern @ **Indian Institute of Science (IISc) — RBCCPS**<br>
+💬 Open to opportunities in **Werkstudent/Praktikum/Master Thesis**<br>
 
-📫 Reach me: **charanprasadrg@gmail.com**
+📫 Reach me: **charanprasadrg@gmail.com**<br>
 🔗 LinkedIn: **[linkedin.com/in/charanprasadrg](https://linkedin.com/in/charanprasadrg)**
 
 
