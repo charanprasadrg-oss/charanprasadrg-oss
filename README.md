@@ -29,11 +29,18 @@
 | **Tools & Office** | MS Excel, PowerPoint, Word, Data Analysis & Statistical Evaluation |
 | **Documentation** | Technical Documentation, Work Standards, Checklists, Best-Practice Guidelines, Training Materials |
 
-**Engineering Focus Areas:**Cyber-Physical Systems · Digital Production . Advanced System Automation.**
+**Engineering Focus Areas:**Cyber-Physical Systems · Digital Production . Advanced System Automation.
 
-#### **🤝 Soft Skills**
+#### 🤝 Soft Skills
 
-🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork
+![Detail-oriented](https://img.shields.io/badge/-Detail--oriented-blue?style=flat-square)
+![Fast Learner](https://img.shields.io/badge/-Fast_Learner-blue?style=flat-square)
+![Quick Grasping](https://img.shields.io/badge/-Quick_Grasping_Ability-blue?style=flat-square)
+![Ethical](https://img.shields.io/badge/-Ethical_%26_Responsible-blue?style=flat-square)
+![Resilient](https://img.shields.io/badge/-Resilient-blue?style=flat-square)
+![Independent Work](https://img.shields.io/badge/-Independent_Work-blue?style=flat-square)
+![Team Player](https://img.shields.io/badge/-Team_Collaboration-blue?style=flat-square)
+![Cross-cultural](https://img.shields.io/badge/-Cross--cultural_Teamwork-blue?style=flat-square)
 ---
 [![](https://komarev.com/ghpvc/?username=charanprasadrg-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
