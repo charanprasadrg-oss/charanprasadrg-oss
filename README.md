@@ -39,7 +39,6 @@
 **Engineering Focus Areas:Cyber-Physical Systems · Digital Production . Advanced System Automation.**
 
 #### **<h2>🤝 Soft Skills**
-
 🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork
  
 
