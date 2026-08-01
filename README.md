@@ -12,10 +12,7 @@
 🔗 LinkedIn: **[linkedin.com/in/charanprasadrg](https://linkedin.com/in/charanprasadrg)**
 
 
-## 🌐 Social Media:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/charanprasadrg) 
-
-### **💻 Programming & AI/ML Skills**
+## **💻 Programming & AI/ML Skills**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -27,7 +24,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 🛠️ Technical & Engineering Skills
+## 🛠️ Technical & Engineering Skills
 
 | Category | Skills |
 |---|---|
