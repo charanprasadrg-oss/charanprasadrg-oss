@@ -5,14 +5,16 @@
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/charanprasadrg) 
 
+### **💻 Programming & AI/ML Skills**
 
-##💻 Programming & AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ### 🛠️ Technical & Engineering Skills
@@ -27,7 +29,11 @@
 | **Tools & Office** | MS Excel, PowerPoint, Word, Data Analysis & Statistical Evaluation |
 | **Documentation** | Technical Documentation, Work Standards, Checklists, Best-Practice Guidelines, Training Materials |
 
-**Engineering Focus Areas:**Cyber-Physical Systems · Digital Production . Advanced System Automation
+**Engineering Focus Areas:**Cyber-Physical Systems · Digital Production . Advanced System Automation.**
+
+### **🤝 Soft Skills**
+
+🎯 Detail-oriented • 📚 Fast learner • 🧠 Quick grasping ability • 🧭 Ethical & responsible • 💪 Resilient • 🧍 Ability to work independently • 🤝 Team collaboration • 🌍 Strong cross-cultural teamwork
 ---
 [![](https://komarev.com/ghpvc/?username=charanprasadrg-oss&icon=0&color=0)](https://visitcount.itsvg.in)
 
